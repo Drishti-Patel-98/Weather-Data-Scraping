@@ -1,0 +1,21 @@
+Date,Updated_Time,Location,Temperature,RealFeel_Shade,Wind,Air_Quality,Condition
+"Mon, May 26, 2025",11:00 PM,"Atlanta, GA",73°F,N/A,SE 4 mph,Poor,Cloudy
+"Mon, May 26, 2025",10:00 PM,"Austin, TX",65°F,N/A,N 5 mph,Fair,Thunderstorm
+"Mon, May 26, 2025",11:00 PM,"Brooklyn, NY",61°F,N/A,SSW 1 mph,Poor,Mostly clear
+"Mon, May 26, 2025",10:00 PM,"Chicago, IL",56°F,N/A,NNE 3 mph,Fair,Cloudy
+"Mon, May 26, 2025",10:00 PM,"Dallas, TX",69°F,N/A,NE 2 mph,Fair,Cloudy
+"Mon, May 26, 2025",9:00 PM,"Denver, CO",54°F,N/A,E 3 mph,Poor,Mostly cloudy
+"Mon, May 26, 2025",5:00 PM,"Honolulu, HI",83°F,80°,NE 16 mph,Fair,Mostly sunny
+"Mon, May 26, 2025",10:00 PM,"Houston, TX",79°F,N/A,E 3 mph,Fair,Partly cloudy
+"Mon, May 26, 2025",8:00 PM,"Los Angeles, CA",63°F,64°,SW 3 mph,Poor,Mostly cloudy
+"Mon, May 26, 2025",11:00 PM,"Manhattan, NY",62°F,N/A,SSE 2 mph,Poor,Mostly clear
+"Mon, May 26, 2025",11:00 PM,"New York, NY",62°F,N/A,SSE 2 mph,Poor,Mostly clear
+"Mon, May 26, 2025",11:00 PM,"Philadelphia, PA",64°F,N/A,S 1 mph,Poor,Mostly clear
+"Mon, May 26, 2025",8:00 PM,"Phoenix, AZ",92°F,N/A,W 3 mph,Poor,Partly cloudy
+"Mon, May 26, 2025",11:00 PM,"Queens, NY",60°F,N/A,SW 8 mph,Poor,Mostly clear
+"Mon, May 26, 2025",8:00 PM,"Sacramento, CA",75°F,73°,NW 4 mph,Fair,Mostly sunny
+"Mon, May 26, 2025",10:00 PM,"San Antonio, TX",79°F,N/A,ENE 6 mph,Fair,Thunderstorm
+"Mon, May 26, 2025",8:00 PM,"San Diego, CA",65°F,N/A,W 10 mph,Fair,Cloudy
+"Mon, May 26, 2025",8:00 PM,"San Jose, CA",65°F,61°,N 14 mph,Fair,Mostly cloudy
+"Mon, May 26, 2025",11:00 PM,"The Bronx, NY",61°F,N/A,S 1 mph,Poor,Clear
+"Mon, May 26, 2025",11:00 PM,"Washington, DC",63°F,N/A,SSE 1 mph,Poor,Mostly clear
