@@ -12,4 +12,4 @@ The scraper simulates a browser session using custom headers to bypass basic bot
 
 Each component of the scraper is modularized for clarity and maintainability. Extracted data is stored in a structured dictionary and converted into a Pandas DataFrame before being exported as a CSV file (weather_data.csv). The project ensures robustness by handling missing or unavailable data with fallback values and consistent formatting.
 
-This ocan be extended for historical weather tracking, forecasting model input, or visualization in tools like Power BI or Tableau.
+This can be extended for historical weather tracking, forecasting model input, or visualization in tools like Power BI or Tableau.
